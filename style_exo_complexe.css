@@ -1,0 +1,31 @@
+body
+{
+    background-color:cornflowerblue;
+}
+
+/* Titre du HTML apparant dans le HTML */
+h1
+{
+    color :red ;
+}
+
+/* Titre h2 non apparant dans le HTML */
+h2
+{
+    color:grey ;
+}
+
+/* paragraphe non apparant dans le HTML */
+p
+{
+    background-color:cyan;
+    max-width: max-content;
+}
+
+/* Footer non apparant dans le HTML */
+footer
+{
+    background-color: cadetblue;
+    max-width: max-content;
+    color:firebrick;
+}
